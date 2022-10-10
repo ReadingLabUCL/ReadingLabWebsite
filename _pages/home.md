@@ -1,12 +1,12 @@
 ---
-title: "Reading Lab - Home"
+title: "AllanLab - Home"
 layout: homelay
-excerpt: "Reading Lab at Leiden University."
+excerpt: "Allan Lab at Leiden University."
 sitemap: false
 permalink: /
 ---
 
-Our research focuses on deciphering the progressive dysregulation of tissue resident and systemic CD4 and CD8 T cell responses to mutation encoded neoantigens from health to death, in several unique clinical cohorts representing a range of cancer types. By longitudinally profiling neoantigen-reactive T cells at the functional, transcriptional, phenotypic and epigenetic level we aim to discern novel biomarkers and actionable T cell-intrinsic targets to inform future preventative and therapeutic immuno-oncology regimens
+We are a dynamic research group at the Leiden Institute of Physics. Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
 
 
